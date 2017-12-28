@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
 title: David López Castellote's personal site
 description: David López Castellote's personal site
-show_downloads: "true"
+show_downloads: true
+theme: jekyll-theme-cayman
